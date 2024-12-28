@@ -2,8 +2,7 @@
 
 This repository provides an action for [LaunchBar](https://www.obdev.at/products/launchbar/actions.html) for accessing recent documents opened with [Sublime Text](https://www.sublimetext.com/). The actions are designed to streamline access to recent files for users of Sublime Text who also happen to use LaunchBar.
 
-:information_source: The LaunchBar action is designed to work together with Sublime Text plugin [`
-Recent Files Tracker`](https://github.com/alberti42/sublime-recent-files-tracker).
+:information_source: The LaunchBar action is designed to work together with the companion plugin [`Recent Files Tracker`](https://github.com/alberti42/sublime-recent-files-tracker) for Sublime Text editor.
 
 <img alt="Screenshot" src="Images/Sublime_screenshot.jpg" width="1542">
 
