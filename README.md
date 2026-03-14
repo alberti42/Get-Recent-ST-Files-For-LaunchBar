@@ -17,7 +17,7 @@ This repository includes the following components:
 
 ### Option 1: Manual Installation
 
-1. **Download** the actions from the [Action.zip](https://github.com/alberti42/Get-Recent-ST-Files-For-LaunchBar/raw/refs/heads/main/Action.zip).
+1. **Download** the actions from the [Action.zip](https://github.com/alberti42/Get-Recent-ST-Files-For-LaunchBar/releases/latest/download/Action.zip).
 2. **Extract** the contents, which include:
    - `Recent Sublime Opened Files.lbaction`
 3. Place these `.lbaction` files into your LaunchBar Actions folder:
