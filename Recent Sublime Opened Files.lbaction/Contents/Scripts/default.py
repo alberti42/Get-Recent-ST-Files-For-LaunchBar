@@ -11,8 +11,12 @@ DEBUG = False
 def plist_path():
     return '~/Library/Application Support/Sublime Text/Local/recent_files_history.json'
 
+HOME = os.path.expanduser('~')
+
 def file_exist(item_path):
-	return os.path.exists(item_path)
+    if not item_path.startswith(HOME):
+        return False
+    return os.path.exists(item_path)
     
 def print_file_size(num, suffix='B'):
     for unit in ['','K','M','G','T','P','E','Z']:
