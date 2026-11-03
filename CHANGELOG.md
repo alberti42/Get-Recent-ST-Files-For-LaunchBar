@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
-### Changed
+### Fixed
 
 - The action is signed with a Developer ID and notarized by Apple. The bundle contains a small executable, `Contents/MacOS/RecentSublimeFiles`, that LaunchBar does not run; it carries the signature, which seals `default.py`. Without it, macOS reported that Apple could not verify the downloaded action.
 
