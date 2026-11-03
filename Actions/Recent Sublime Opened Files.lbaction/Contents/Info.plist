@@ -7,7 +7,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>Alberti42.LaunchBar.action.RecentSublime</string>
 	<key>CFBundleName</key>
-	<string>Recent Sublime Text Projects</string>
+	<string>Recent Sublime Opened Files</string>
 	<key>LBAssociatedApplication</key>
 	<string>com.sublimetext.4</string>
 	<key>LBDescription</key>
@@ -19,9 +19,9 @@
 		<key>LBRequirements</key>
 		<string>Sublime Text 4</string>
 		<key>LBResult</key>
-		<string>The list of recently opened Sublime Text projects</string>
+		<string>The list of files recently opened in Sublime Text</string>
 		<key>LBSummary</key>
-		<string>This action returns a list of recently opened Sublime Text 3 files. Credits to Vincent Q. Vu for the initial implementation.</string>
+		<string>This action returns a list of files recently opened in Sublime Text 4. It reads the history written by the Sublime Text plugin Recent Files Tracker. Credits to Vincent Q. Vu for the initial implementation.</string>
 		<key>LBTwitter</key>
 		<string></string>
 		<key>LBWebsiteURL</key>
@@ -32,7 +32,7 @@
 	<key>LBRequirements</key>
 	<string>Sublime Text 4</string>
 	<key>LBResult</key>
-	<string>The list of recently opened Sublime Text projects</string>
+	<string>The list of files recently opened in Sublime Text</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
@@ -48,7 +48,7 @@
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.10</string>
+	<string>12.0</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2020 Andrea Alberti</string>
 </dict>
