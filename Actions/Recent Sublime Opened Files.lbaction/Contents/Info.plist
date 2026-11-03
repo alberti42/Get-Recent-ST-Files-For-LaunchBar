@@ -5,7 +5,7 @@
 	<key>CFBundleIconFile</key>
 	<string>com.sublimetext.4</string>
 	<key>CFBundleIdentifier</key>
-	<string>Alberti42.LaunchBar.action.RecentSublime</string>
+	<string>Alberti42.LaunchBar.action.RecentSublimeFiles</string>
 	<key>CFBundleName</key>
 	<string>Recent Sublime Opened Files</string>
 	<key>CFBundleVersion</key>
