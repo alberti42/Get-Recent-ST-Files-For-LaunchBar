@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [1.1.1] - 2026-11-03
+
 ### Fixed
 
 - The action is signed with a Developer ID and notarized by Apple. The bundle contains a small executable, `Contents/MacOS/RecentSublimeFiles`, that LaunchBar does not run; it carries the signature, which seals `default.py`. Without it, macOS reported that Apple could not verify the downloaded action.
@@ -26,5 +28,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 - `open_with_sublime.py`, which the action never ran.
 
-[Unreleased]: https://github.com/alberti42/Get-Recent-ST-Files-For-LaunchBar/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/alberti42/Get-Recent-ST-Files-For-LaunchBar/compare/v1.1.1...HEAD
+[1.1.1]: https://github.com/alberti42/Get-Recent-ST-Files-For-LaunchBar/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/alberti42/Get-Recent-ST-Files-For-LaunchBar/compare/1.0.1...v1.1.0
