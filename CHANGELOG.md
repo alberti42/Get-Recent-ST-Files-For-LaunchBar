@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-11-03
+
 ### Fixed
 
 - LaunchBar named the action "Recent Sublime Text Projects" and described it as a list of Sublime Text 3 files; it now names it "Recent Sublime Opened Files", a list of files recently opened in Sublime Text 4.
@@ -20,4 +22,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 - `open_with_sublime.py`, which the action never ran.
 
-[Unreleased]: https://github.com/alberti42/Get-Recent-ST-Files-For-LaunchBar/compare/1.0.1...HEAD
+[Unreleased]: https://github.com/alberti42/Get-Recent-ST-Files-For-LaunchBar/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/alberti42/Get-Recent-ST-Files-For-LaunchBar/compare/1.0.1...v1.1.0
